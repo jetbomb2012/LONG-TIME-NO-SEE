@@ -21,8 +21,8 @@
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
 # 技術支援: jetbomb2012@gmail.com
 <img src="giphy.gif">
-# <a href="https://www.youtube.com/">這個連結</a>會連到 YouTube<br>
-# <a href="https://www.google.com/">這個連結</a>會連到 Google<br>
+<a href="https://www.youtube.com/">這個連結</a>會連到 YouTube<br>
+<a href="https://www.google.com/">這個連結</a>會連到 Google<br>
 
 
 
