@@ -25,3 +25,4 @@
 # <a href="https://www.google.com/">這個連結</a>會連到 Google<br>
 
 
+<p><a href="mailto:cs@web4theme.com">發郵件給我</a></p>
