@@ -4,7 +4,7 @@
 # 由於會徽屬個資保護, 可理解
 # 會長現場直播<a href="https://www.youtube.com/watch?v=6YgeXxIWjsA)/">
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
-# (黑澀會網聚一)<a href="https://www.youtube.com/watch?v=blRPdRTiWWA)/">
+# <a href="https://www.youtube.com/watch?v=blRPdRTiWWA)/"><a href="[https://www.youtube.com](https://www.youtube.com/watch?v=blRPdRTiWWA))/">黑澀會網聚一</a>網聚一 <br>
 # (黑澀會網聚二)<a href="https://www.youtube.com/watch?v=NG4TtdMpj7Y)/">
 
 # 公告
@@ -20,5 +20,5 @@
 <img src="giphy.gif">
 # <a href="https://www.youtube.com/">這個連結</a>會連到 YouTube<br>
 # <a href="https://www.google.com/">這個連結</a>會連到 Google<br>
-# <a href="/html/image-img-tag.html">這個連結</a>會連到 Fooish 圖片標籤教學頁面
+
 
