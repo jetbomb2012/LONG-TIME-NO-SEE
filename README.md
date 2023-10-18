@@ -4,7 +4,7 @@
 # 由於會徽屬個資保護, 可理解
 # <a href="https://www.youtube.com/watch?v=x6V7c0eklpU/">會長直播</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
-# 
+
 
 
 
