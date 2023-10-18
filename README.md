@@ -16,7 +16,7 @@
 # 公會戰事
 # 網聚
 # 戲谷公關
-#  <p><a href="mailto:tfftfftff7788@yahoo.com.tw">會外事務</a></p>
+# <a href="mailto:tfftfftff7788@yahoo.com.tw">會外事務</a>
 # XCH
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
 # 技術支援: jetbomb2012@gmail.com
