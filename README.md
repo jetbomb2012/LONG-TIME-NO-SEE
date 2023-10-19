@@ -1,8 +1,7 @@
 #   <img src="flag.jpg">新黑澀會
 
-# <a href="https://www.youtube.com/watch?v=6__SEJl1VL4">會長直播目前已開啟</a>
+# <a href="https://www.youtube.com/watch?v=nWjQ2a3drLs">會長直播目前已開啟</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
-
 
 # 黑澀會網聚(一)
 
