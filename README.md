@@ -6,7 +6,6 @@
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 
 
-
 # <a href="https://4444.win)/">黑澀會網聚(一)</a>
 
 # 公告
