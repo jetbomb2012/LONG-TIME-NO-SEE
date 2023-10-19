@@ -2,7 +2,7 @@
 # 已呈報 前會長由(傑邦上兵)承擔本公會收復失土之重責大任 ~
 # 副會長 -- 職業九段加持 
 # 由於會徽屬個資保護, 可理解
-# <a href="https://www.youtube.com/watch?v=6__SEJl1VL4">會長直播目前已開啟</a>
+# <a href="https://www.youtube.com/watch?v=6__SEJl1VL4">會長直播目前已關閉</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 
 
