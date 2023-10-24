@@ -1,6 +1,6 @@
 #   <img src="flag.jpg">新黑澀會
 
-# <a href="https://www.youtube.com/watch?v=q-C6pdrwTrc">會長直播目前已開啟測試</a>
+# <a href="https://www.youtube.com/watch?v=ZDGiYz1Nf8U">會長直播目前已開啟測試</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 # 會長戰功: 戲谷名人堂第一高手, 黑澀會第一搶分王, 娜姐公會第一名搶分王!
 # 前會長天敵: 皇家公會 ; 先取皇家後勝B公會 
