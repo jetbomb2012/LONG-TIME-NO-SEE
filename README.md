@@ -1,6 +1,6 @@
 #   <img src="flag.jpg">新黑澀會
 # 公告
-# 1. 本週公會戰人數不足, 將支援友軍作戰!  
+# 1. 新黑澀會, 勝率未達50%, 未經允許, 不得參賽!
 # <a href="https://www.youtube.com/watch?v=DYYh2W5BX0k">會長勝率七成直播</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 # 會長戰功: 戲谷名人堂第一高手
