@@ -5,9 +5,6 @@
 # <a href="https://www.youtube.com/watch?v=DYYh2W5BX0k">會長勝率七成直播</a>
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 # 會長戰功: 戲谷名人堂第二高手
-# 前會長天敵: 皇家公會 ; 先取皇家後勝B公會 
-# 目標宗旨: 未能奪下第一名而無法忍受!
-
 
 
 # 2023/10/30 僅前公會會員能入局
