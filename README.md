@@ -1,5 +1,5 @@
 #   <img src="flag.jpg">新黑澀會
-# 公告
+# 公告 LEO 獲公會獎金十五萬麻將金幣
 # 本公會由傑邦二兵繼任會長
 # 1. 新黑澀會, 勝率未達50%, 未經允許, 不得參賽!
 # <a href="https://www.youtube.com/watch?v=DYYh2W5BX0k">會長勝率七成直播</a>
