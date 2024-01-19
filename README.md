@@ -5,7 +5,6 @@
 # <a href="https://www.youtube.com/watch?v=DYYh2W5BX0k">會長勝率七成直播</a>
 # <img src="war.jpg">
 # 會長戰功: 戲谷名人堂第二高手
-
 # 2023/10/30 僅前公會會員能入局
 # 會規 :首重會員間禁止貨幣買賣致生事, 因而影響公會運作品質
 
